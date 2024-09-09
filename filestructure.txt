@@ -1,0 +1,25 @@
+|-- frontEnd
+    |-- .gitignore
+    |-- eslint.config.js
+    |-- index.html
+    |-- package-lock.json
+    |-- package.json
+    |-- public
+        |-- vite.svg
+    |-- README.md
+    |-- src
+        |-- App.css
+        |-- App.jsx
+        |-- assets
+            |-- react.svg
+        |-- Home.jsx
+        |-- index.css
+        |-- Login.jsx
+        |-- main.jsx
+        |-- Register.jsx
+    |-- vite.config.js
+|-- server
+    |-- .gitignore
+    |-- package-lock.json
+    |-- package.json
+    |-- server.js
